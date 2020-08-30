@@ -302,8 +302,8 @@ WR,Robert Foster,24,2018,66,65,82,80,82,55,0.6,3
 WR,Ray-Ray McCloud,22,2018,78,73,78,74,78,71,0.7,4
 END_PLAYERS
 New England Patriots, NE
-CB,Stephon Gilmore,28,2012,102,96,96,99,97,98,13.0,2
-CB,JoeJuan Williams,24,2017,83,76,79,78,82,76,0.9,2
+CB,Stephon Gilmore,28,2012,102,96,96,99,97,98,3.0,4
+CB,JoeJuan Williams,24,2017,83,76,79,78,82,76,0.9,5
 CB,Jason McCourty,31,2009,87,85,87,85,86,84,3.0,2
 CB,Justin Bethel,25,2016,75,71,78,73,75,76,0.5,4
 CB,J.C. Jackson,23,2018,74,74,73,74,74,73,0.6,3
@@ -328,7 +328,7 @@ LB,Ja'Whaun Bentley,22,2018,84,78,84,82,82,78,0.7,3
 LB,Anfernee Jennings,21,2020,78,76,78,75,78,75,1.0,3
 LB,Josh Uche,21,2020,82,77,76,78,80,79,1.0,4
 LB,Brandon Copeland,24,2017,74,76,83,78,76,80,0.6,2
-LB,Dont'a Hightower,28,2012,86,88,86,85,86,85,5.9,1
+LB,Dont'a Hightower,28,2012,86,88,86,85,86,85,2.5,4
 LB,Brandon King,25,2015,75,81,80,74,75,78,1.3,2
 LB,Tashawn Bower,24,2016,73,70,72,70,70,61,0.6,4
 LB,Terez Hall,22,2018,72,62,74,70,70,62,0.7,4
@@ -343,7 +343,8 @@ OL,LaAdrian Waddle,27,2013,76,74,83,83,75,72,1.5,1
 OL,Isaiah Wynn,22,2018,77,79,89,83,80,83,2.9,4
 QB,Jarrett Stidham,23,2019,84,78,80,78,76,76,1.5,4
 QB,Brian Hoyer,33,2009,69,75,84,75,75,57,1.5,3
-QB,Cam Newton,29,2011,88,87,95,97,82,83,2.8,5RB,Rex Burkhead,28,2013,78,83,84,78,84,79,3.3,3
+QB,Cam Newton,29,2011,88,87,95,97,82,83,2.8,5
+RB,Rex Burkhead,28,2013,78,83,84,78,84,79,3.3,3
 RB,Danny Vitale,25,2016,73,78,83,76,85,67,0.6,1
 RB,Damien Harris,24,2017,76,75,75,73,74,72,0.5,3
 RB,Brandon Bolden,28,2012,68,76,80,83,77,59,0.8,1
@@ -356,7 +357,7 @@ WR,Ryan Izzo,23,2018,75,75,83,74,74,68,0.6,4
 WR,Mohamed Sanu,29,2012,83,81,82,80,82,82,6.5,3
 WR,Damiere Byrd,25,2017,78,75,78,74,75,74,1.0,2
 WR,Julian Edelman,32,2009,84,84,85,84,84,85,5.5,4
-WR,N'Keal Harry,21,2019,84,78,82,80,78,83,1.0,4
+WR,N'Keal Harry,21,2019,84,88,82,90,88,93,1.0,14
 WR,Matthew Slater,33,2008,75,80,79,75,76,76,2.6,2
 END_PLAYERS
 Miami Dolphins, MIA
